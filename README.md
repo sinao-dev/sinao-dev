@@ -7,7 +7,6 @@
 - 👨🏻‍💻 I am familiar with `djangorestframework`
 - 👨🏻‍💻 I am familiar with Wordpress CMS and Developing themes
 - 💞️ I’m looking to collaborate on anything Decentralized
-- 📫 You Can Reach me on Twitter under @SpaceJammerCT
 
 <!---
 sinao-dev/sinao-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
